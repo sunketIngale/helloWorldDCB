@@ -17,7 +17,7 @@ pipeline {
     stage('runexe') {
       steps {
         checkout scm
-        sh 'build/exe/hello/hello'
+        sh 'build/exe/hello/hello sunket' 
       }
     }
   }
