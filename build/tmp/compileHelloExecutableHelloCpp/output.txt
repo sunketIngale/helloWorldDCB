@@ -1,0 +1,4 @@
+See file:///home/mint/Documents/cpp-hello-world/build/tmp/compileHelloExecutableHelloCpp/output.txt for all output for compileHelloExecutableHelloCpp.
+compiling hello.cpp successful.
+
+Finished compileHelloExecutableHelloCpp, see full log file:///home/mint/Documents/cpp-hello-world/build/tmp/compileHelloExecutableHelloCpp/output.txt.

@@ -1,0 +1,4 @@
+-o
+/home/mint/Documents/cpp-hello-world/build/exe/hello/hello
+/home/mint/Documents/cpp-hello-world/build/objs/hello/helloCpp/2sh7nekx7r24pl6r3glu7ja9y/hello.o
+-m64

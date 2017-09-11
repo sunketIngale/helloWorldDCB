@@ -1,0 +1,4 @@
+See file:///home/mint/Documents/cpp-hello-world/build/tmp/linkHelloExecutable/output.txt for all output for linkHelloExecutable.
+linking hello successful.
+
+Finished linkHelloExecutable, see full log file:///home/mint/Documents/cpp-hello-world/build/tmp/linkHelloExecutable/output.txt.

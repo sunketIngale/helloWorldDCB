@@ -1,0 +1,6 @@
+-x
+c++
+-c
+-I
+/home/mint/Documents/cpp-hello-world/src/hello/headers
+-m64
