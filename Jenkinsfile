@@ -10,7 +10,7 @@ pipeline {
     stage('build') {
       steps {
         checkout scm
-        sh './gradlew build --rerun-tasks'
+        sh './gradlew clean build'
       }
     }
 }
