@@ -13,6 +13,13 @@ pipeline {
         sh './gradlew clean build'
       }
     }
+    
+    stage('runexe') {
+      steps {
+        checkout scm
+        sh 'build/exe/hello/hello'
+      }
+    }
   }
   
   post{
