@@ -14,4 +14,10 @@ pipeline {
       }
     }
   }
+  
+  post{
+    always{
+        archiveArtifacts 'build/exe/hello/hello'
+    }
+  }
 }
